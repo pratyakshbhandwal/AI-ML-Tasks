@@ -1,0 +1,1 @@
+## I have a habit of using camel case dont consider it as if it has been copied from a LLM
